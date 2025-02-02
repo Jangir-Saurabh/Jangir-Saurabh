@@ -5,6 +5,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jangirsaurabh)
 
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/a527f691d3c789ed7618f1c3edea804c.gif">
+
 
  Hi there! 👋 I'm Saurabh
 
