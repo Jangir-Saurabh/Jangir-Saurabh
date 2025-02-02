@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Saurabh
 
-![Keep it simple](https://github.com/Jangir-Saurabh/About_ME/blob/8a642bd526632ab760b6384a17a884120590d63f/Saurabh.jpg)
+<img src="https://github.com/Jangir-Saurabh/About_ME/blob/8a642bd526632ab760b6384a17a884120590d63f/Saurabh.jpg" >
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jangirsaurabh)
 
 🌟 **About Me**
