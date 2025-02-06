@@ -17,7 +17,7 @@
 - 🌱 Currently learning Python, SQL, PowerBI and Machine Learning
 
 💼 **Projects**
-- [Student Details](https://github.com/Jangir-Saurabh/Postgres-Sql-Students-Details-)
+- [Student Details](https://github.com/Jangir-Saurabh/students_details-)
 
 🛠️ **Skills**
 - Programming: Python, SQL
