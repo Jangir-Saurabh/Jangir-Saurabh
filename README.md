@@ -26,5 +26,5 @@
 
 
 📫 **Connect with Me**
-- [LinkedIn](www.linkedin.com/in/jangirsaurabh)
-- Email: sauravjangir.099@outlook.com
+- [LinkedIn](https://www.linkedin.com/in/jangirsaurabh/)
+
