@@ -18,6 +18,8 @@
 
 💼 **Projects**
 - [Student Details](https://github.com/Jangir-Saurabh/students_details-)
+- [Student Details](https://github.com/Jangir-Saurabh/Virat_kholi)
+- [UK-Insurance-Power-Bi-Project] (https://github.com/Jangir-Saurabh/UK-Insurance-Power-Bi-Project)
 
 🛠️ **Skills**
 - Programming: Python, SQL
